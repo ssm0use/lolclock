@@ -1,0 +1,46 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	background-color: #A0B4A2;
+}
+
+img {
+	height: 300px;
+	widows: 300px;
+	border-radius: inherit;
+	padding-top: 120px;
+	padding-left: 100px;
+	padding-bottom: 20px;
+	z-index: 2;
+}
+
+iframe {
+	padding-top: 120px;
+	padding-left: 100px;
+	padding-bottom: 20px;
+	z-index: 2;
+}
+
+.full-width {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+
+.box {
+	background-color: #B4C6D1;
+	width: 600px;
+	height: 600px;
+    border: 2px solid red;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 50px;
+    z-index: 1;
+}
+
+#content h2 {
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding-left: 100px;
+	padding-right: 80px;
+}
